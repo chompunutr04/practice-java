@@ -16,5 +16,3 @@ These practices are part of coursework or self-study to build a solid foundation
 ## 🧠 Technologies / Tools  
 - Java SE (e.g. Java 8, 11, or latest)  
 - JDK and JRE  
-- (If applicable) build tools like Maven / Gradle  
-
